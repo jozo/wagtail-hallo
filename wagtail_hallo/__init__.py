@@ -1,6 +1,3 @@
-default_app_config = "wagtail_hallo.apps.WagtailHalloAppConfig"
-
-
 # This file is heavily inspired by django.utils.version
 
 
